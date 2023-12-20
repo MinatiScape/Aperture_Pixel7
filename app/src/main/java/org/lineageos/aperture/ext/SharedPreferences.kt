@@ -311,7 +311,7 @@ internal var SharedPreferences.saveLocation: Boolean?
 
 // Shutter sound
 private const val SHUTTER_SOUND_KEY = "shutter_sound"
-private const val SHUTTER_SOUND_DEFAULT = true
+private const val SHUTTER_SOUND_DEFAULT = false
 
 internal var SharedPreferences.shutterSound: Boolean
     get() = getBoolean(SHUTTER_SOUND_KEY, SHUTTER_SOUND_DEFAULT)

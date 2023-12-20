@@ -24,7 +24,7 @@
             app:title="@string/save_location_title" />
 
         <SwitchPreference
-            app:defaultValue="true"
+            app:defaultValue="false"
             app:iconSpaceReserved="false"
             app:key="shutter_sound"
             app:summary="@string/shutter_sound_summary"
