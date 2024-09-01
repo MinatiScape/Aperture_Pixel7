@@ -80,9 +80,10 @@
              </string-array>
     -->
     <string-array name="config_logicalZoomRatios">
-                 <item>0</item> <item>0.7</item> <item>0.7</item>
+                 <item>0</item> <item>0.7</item> <item>0.67044306</item>
                  <item>0</item> <item>2.0</item> <item>2.0</item>
                  <item>0</item> <item>8.0</item> <item>8.0</item>
+                 <item>1</item> <item>0.7</item> <item>0.67044306</item>
     </string-array>
 
     <!-- Whether we should use high resolution output size or not.
